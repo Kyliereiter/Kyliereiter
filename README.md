@@ -15,7 +15,7 @@
 - Remote freelance work  
 
 📫 How to reach me:
-- ✉️ [Kylie.reiter93@gmail.com](mailto:Kylie.reiter93@gmail.com)  
+- ✉️ [Email](kylie_reiter@outlook.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kyliereiter93/)  
 - 💻 [My Projects](https://github.com/Kyliereiter)
 
