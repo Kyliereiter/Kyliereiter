@@ -16,9 +16,9 @@ I enjoy turning requirements into working code, learning from feedback, and coll
 - Remote or hybrid opportunities
 
 ### How to reach me
-- Email: kylie_reiter@outlook.com  
-- LinkedIn: https://www.linkedin.com/in/kyliereiter93/  
-- GitHub: https://github.com/Kyliereiter
+• Email: kylie_reiter@outlook.com
+• LinkedIn: https://www.linkedin.com/in/kyliereiter93/
+• GitHub: https://github.com/Kyliereiter
 
 ### A little about me
 Before tech, I worked as a licensed cosmetologist, which taught me discipline, communication, and attention to detail. I bring that same mindset into software development while continuing to grow as an engineer.
