@@ -1,6 +1,6 @@
 # Hi, I'm Kylie Reiter 👋
 
-I'm a Computer Science (Software Engineering) student focused on building clear, reliable software and continuously improving my skills through hands-on projects.
+I’m a Computer Science (Software Engineering) student focused on building clear, reliable software through hands-on projects.
 
 I enjoy turning requirements into working code, learning from feedback, and collaborating in structured development environments.
 
