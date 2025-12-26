@@ -1,28 +1,24 @@
-# 👋 Hi, I'm Kylie Reiter!
+# Hi, I'm Kylie Reiter 👋
 
-🎓 I'm currently a Computer Science – Software Engineering student at SNHU  
-🛠️ I love working on projects that involve full-stack development, automation, and web apps  
-🌱 I'm currently learning:  
-- Java  
-- C++  
-- Python  
-- Agile/Scrum  
-- JavaScript & Web Design  
+I'm a Computer Science (Software Engineering) student focused on building clear, reliable software and continuously improving my skills through hands-on projects.
 
-🤝 I'm looking to collaborate on:
-- Student projects  
-- Internship opportunities  
-- Remote freelance work  
+I enjoy turning requirements into working code, learning from feedback, and collaborating in structured development environments.
 
-📫 How to reach me:
-- ✉️ [Email](kylie_reiter@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kyliereiter93/)  
-- 💻 [My Projects](https://github.com/Kyliereiter)
+### Technical skills
+- Languages: Java, C++, Python, JavaScript  
+- Core concepts: Object-Oriented Programming, data structures, file I/O  
+- Tools & practices: Git/GitHub, Agile/Scrum, basic software design  
+- Interests: Full-stack development, automation, and web applications
 
-🧠 Fun fact:
-I’m a licensed cosmetologist turned coder — now blending beauty with tech one project at a time 💻✂️🌿
+### What I'm looking for
+- Software engineering internships  
+- Collaborative student or open-source projects  
+- Remote or hybrid opportunities
 
-## 📌 Pinned Projects
+### How to reach me
+- Email: kylie_reiter@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/kyliereiter93/  
+- GitHub: https://github.com/Kyliereiter
 
-- 🛒 [Corner Grocer – C++](https://github.com/Kyliereiter/corner-grocer-cpp): A console app that tracks grocery purchases using maps and file I/O.  
-- 🎨 [Java Slideshow Controller](https://github.com/Kyliereiter/java-slideshow-controller): Built and refined under Agile methodology for a travel slideshow app.
+### A little about me
+Before tech, I worked as a licensed cosmetologist, which taught me discipline, communication, and attention to detail. I bring that same mindset into software development while continuing to grow as an engineer.
